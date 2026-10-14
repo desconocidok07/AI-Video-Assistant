@@ -183,6 +183,4 @@ You: What did we decide about the launch date?
 
 Contributions, issues, and feature requests are welcome. Feel free to open an issue or submit a pull request.
 
-## 📄 License
 
-No license specified yet — add a `LICENSE` file to define how others can use this project.
